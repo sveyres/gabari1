@@ -42,9 +42,7 @@ nav ul {
 
 #image {
     display: inline-block;
-    width: 20em;
-}
+    width: 66%;
+    border-radius: 0.5em;
 
-#topsection div {
-    display: inline-block;
 }
