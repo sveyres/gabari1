@@ -9,8 +9,6 @@
     text-decoration: none;
 }
 
-
-
 body{
     font-family: Arial;
     font-size: 0.8em;
@@ -24,7 +22,6 @@ main {
     margin: 0 auto;
     text-align: center;
 }
-
 nav {
     padding: 0.1em;
     width: 72%;
