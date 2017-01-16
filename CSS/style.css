@@ -1,9 +1,50 @@
-header{
-    background-color: #000000;
-}
 body{
     margin: 0;
 }
-nav{
+header{
+    background-color: #000000;
+}
+main {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
 
+
+nav {
+    padding: 0.1em;
+    width: 1250px;
+    margin: auto;
+}
+nav li {
+    display: inline-block;
+    padding: 0 0;
+    vertical-align: middle;
+}
+nav ul {
+    padding: 0;
+}
+
+.heading {
+    display: inline-block;
+    text-align: left;
+    width: 33%;
+}
+
+#centraldiv {
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(140, 140, 140);
+    border-radius: 0.5em;
+    background-color: rgb(195, 202, 207);
+    padding: 1em;
+}
+
+#image {
+    display: inline-block;
+    width: 20em;
+}
+
+#topsection div {
+    display: inline-block;
 }
