@@ -55,7 +55,7 @@ nav a {
     text-align:center;
 }
 #call:hover {
-    box-shadow: 0 0 2em; /* Ne marche pas */
+    box-shadow: 0 0 0.3em #000000;
 }
 article button {
     background-color:#ffffff;
